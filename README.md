@@ -1,4 +1,4 @@
-# Color Switcher Project
+# Color Scheme Changer
 [Click Project Link](https://debash1sh-panda.github.io/ColorSwitchProject/)
 
 # Overview
