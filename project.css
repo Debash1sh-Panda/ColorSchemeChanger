@@ -36,5 +36,9 @@ html {
   #grey {
     background-color: grey;
   }
-  
+  footer span{
+    display: flex;
+    justify-content: center;
+    color: rgb(14, 53, 53);
+  }
   
