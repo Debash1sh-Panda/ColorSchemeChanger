@@ -1,5 +1,5 @@
 # Color Scheme Changer
-[Click Project Link](https://debash1sh-panda.github.io/ColorSchemeChanger/)
+[Click Color Scheme Changer Project Link](https://debash1sh-panda.github.io/ColorSchemeChanger/)
 
 # Overview
 The Color Switcher project is a versatile tool designed to simplify the process of customizing and switching color schemes in your web applications.
